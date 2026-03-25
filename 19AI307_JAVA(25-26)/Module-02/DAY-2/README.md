@@ -34,8 +34,8 @@ To write a Java program that demonstrates the use of methods by defining functio
  ```
 /*
 Program to implement a Methods using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
