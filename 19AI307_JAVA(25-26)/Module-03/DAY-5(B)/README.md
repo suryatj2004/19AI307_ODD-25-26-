@@ -31,8 +31,8 @@ To write a Java program to check whether a given number is an Armstrong number.
  ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
