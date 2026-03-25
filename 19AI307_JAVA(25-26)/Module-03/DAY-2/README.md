@@ -40,8 +40,8 @@ To write a Java program that demonstrates method overriding and runtime polymorp
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
