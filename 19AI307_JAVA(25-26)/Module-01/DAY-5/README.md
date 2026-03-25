@@ -33,8 +33,8 @@ To write a Java program that reads a string and a character from the user and ca
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
