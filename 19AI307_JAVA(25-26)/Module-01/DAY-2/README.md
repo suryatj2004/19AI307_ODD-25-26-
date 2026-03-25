@@ -45,8 +45,8 @@ To write a Java program that reads a month number from the user and determines w
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
