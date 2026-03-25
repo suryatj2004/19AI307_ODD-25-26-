@@ -36,8 +36,8 @@ To write a Java program that demonstrates the use of constructors by creating a 
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
