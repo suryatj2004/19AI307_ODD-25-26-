@@ -83,8 +83,8 @@ To write a Java program that demonstrates type conversion between different prim
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
