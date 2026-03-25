@@ -80,8 +80,8 @@ To write a Java program that demonstrates inheritance and polymorphism by creati
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
