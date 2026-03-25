@@ -32,8 +32,8 @@ To write a Java program that reads strings continuously and handles null input u
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
