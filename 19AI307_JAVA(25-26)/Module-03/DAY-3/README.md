@@ -41,8 +41,8 @@ To write a Java program that demonstrates abstraction and runtime polymorphism u
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
