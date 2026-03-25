@@ -42,8 +42,8 @@ To write a Java program that demonstrates the use of synchronization by swapping
  ```
 /*
 Program to implement a Synchronization concept using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
