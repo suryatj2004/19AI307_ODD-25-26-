@@ -38,8 +38,8 @@ To write a Java program that demonstrates setting the name and priority of a thr
  ```
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
