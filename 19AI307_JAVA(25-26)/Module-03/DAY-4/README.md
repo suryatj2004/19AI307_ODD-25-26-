@@ -50,8 +50,8 @@ To write a Java program that demonstrates abstraction and polymorphism by using 
  ```
 /*
 Program to implement a Interface using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
