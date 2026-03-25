@@ -46,8 +46,8 @@ To write a Java program that demonstrates the use of static variables and static
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: KAVIYARASU K
-RegisterNumber: 212222040075
+Developed by: SURYA T
+RegisterNumber: 212222040168
 */
 ```
 
